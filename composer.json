@@ -26,10 +26,7 @@
         "psr-4": { "Omnipay\\SecurePay\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
-    },
-    "require-dev": {
-        "omnipay/tests": "~2.0"
+        "omnipay/common": "2.5.x-dev"
     },
     "extra": {
         "branch-alias": {
